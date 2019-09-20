@@ -1,0 +1,21 @@
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 05\FutureValue\obj\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 05\FutureValue\obj\Debug\FutureValue.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 05\FutureValue\obj\Debug\FutureValue.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 05\FutureValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 05\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 05\FutureValue\obj\Debug\FutureValue.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 05\FutureValue\obj\Debug\FutureValue.vbproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 05\FutureValue\bin\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 05\FutureValue\bin\Debug\FutureValue.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 05\FutureValue\bin\Debug\FutureValue.xml
+C:\VB 2015\Book applications\Chapter 05\FutureValue\bin\Debug\FutureValue.exe.config
+C:\VB 2015\Book applications\Chapter 05\FutureValue\obj\Debug\FutureValue.exe
+C:\VB 2015\Book applications\Chapter 05\FutureValue\obj\Debug\FutureValue.xml
+C:\VB 2015\Book applications\Chapter 05\FutureValue\obj\Debug\FutureValue.pdb
+C:\VB 2015\Book applications\Chapter 05\FutureValue\bin\Debug\FutureValue.exe
+C:\VB 2015\Book applications\Chapter 05\FutureValue\bin\Debug\FutureValue.pdb
+C:\VB 2015\Book applications\Chapter 05\FutureValue\bin\Debug\FutureValue.xml
+C:\VB 2015\Book applications\Chapter 05\FutureValue\obj\Debug\FutureValue.vbprojResolveAssemblyReference.cache
+C:\VB 2015\Book applications\Chapter 05\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\VB 2015\Book applications\Chapter 05\FutureValue\obj\Debug\FutureValue.Resources.resources
+C:\VB 2015\Book applications\Chapter 05\FutureValue\obj\Debug\FutureValue.vbproj.GenerateResource.Cache
