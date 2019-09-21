@@ -1,0 +1,10 @@
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\bin\Release\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\bin\Release\FutureValue.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\bin\Release\FutureValue.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Release\FutureValue.frmFutureValue.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Release\FutureValue.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Release\FutureValue.vbproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Release\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Release\FutureValue.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Release\FutureValue.pdb

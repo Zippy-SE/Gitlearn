@@ -1,0 +1,65 @@
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Debug\FutureValue.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Debug\FutureValue.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\bin\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\bin\Debug\FutureValue.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\bin\Debug\FutureValue.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Debug\FutureValue.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 06\FutureValue\obj\Debug\FutureValue.vbproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 06\FutureValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.vbproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 06\FutureValue\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.vbproj.GenerateResource.Cache
+C:\VB 2015\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.exe.config
+C:\VB 2015\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.exe
+C:\VB 2015\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.xml
+C:\VB 2015\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.pdb
+C:\VB 2015\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.exe
+C:\VB 2015\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.pdb
+C:\VB 2015\Book applications\Chapter 06\FutureValue\bin\Debug\FutureValue.xml
+C:\VB 2015\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.vbprojResolveAssemblyReference.cache
+C:\VB 2015\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\VB 2015\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.Resources.resources
+C:\VB 2015\Book applications\Chapter 06\FutureValue\obj\Debug\FutureValue.vbproj.GenerateResource.Cache
