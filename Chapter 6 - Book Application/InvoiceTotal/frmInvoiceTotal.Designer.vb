@@ -31,12 +31,13 @@ Partial Class frmInvoiceTotal
         Me.txtTotal = New System.Windows.Forms.TextBox()
         Me.txtCustomerType = New System.Windows.Forms.TextBox()
         Me.Label5 = New System.Windows.Forms.Label()
+        Me.btnClearAllBoxes = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'btnExit
         '
         Me.btnExit.DialogResult = System.Windows.Forms.DialogResult.Cancel
-        Me.btnExit.Location = New System.Drawing.Point(141, 153)
+        Me.btnExit.Location = New System.Drawing.Point(177, 153)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(75, 23)
         Me.btnExit.TabIndex = 11
@@ -44,7 +45,7 @@ Partial Class frmInvoiceTotal
         '
         'btnCalculate
         '
-        Me.btnCalculate.Location = New System.Drawing.Point(50, 153)
+        Me.btnCalculate.Location = New System.Drawing.Point(12, 153)
         Me.btnCalculate.Name = "btnCalculate"
         Me.btnCalculate.Size = New System.Drawing.Size(75, 23)
         Me.btnCalculate.TabIndex = 10
@@ -52,7 +53,7 @@ Partial Class frmInvoiceTotal
         '
         'txtSubtotal
         '
-        Me.txtSubtotal.Location = New System.Drawing.Point(116, 36)
+        Me.txtSubtotal.Location = New System.Drawing.Point(152, 36)
         Me.txtSubtotal.Name = "txtSubtotal"
         Me.txtSubtotal.Size = New System.Drawing.Size(100, 20)
         Me.txtSubtotal.TabIndex = 3
@@ -99,7 +100,7 @@ Partial Class frmInvoiceTotal
         '
         'txtDiscountPercent
         '
-        Me.txtDiscountPercent.Location = New System.Drawing.Point(116, 63)
+        Me.txtDiscountPercent.Location = New System.Drawing.Point(152, 62)
         Me.txtDiscountPercent.Name = "txtDiscountPercent"
         Me.txtDiscountPercent.ReadOnly = True
         Me.txtDiscountPercent.Size = New System.Drawing.Size(100, 20)
@@ -108,7 +109,7 @@ Partial Class frmInvoiceTotal
         '
         'txtDiscountAmount
         '
-        Me.txtDiscountAmount.Location = New System.Drawing.Point(116, 90)
+        Me.txtDiscountAmount.Location = New System.Drawing.Point(152, 90)
         Me.txtDiscountAmount.Name = "txtDiscountAmount"
         Me.txtDiscountAmount.ReadOnly = True
         Me.txtDiscountAmount.Size = New System.Drawing.Size(100, 20)
@@ -117,7 +118,7 @@ Partial Class frmInvoiceTotal
         '
         'txtTotal
         '
-        Me.txtTotal.Location = New System.Drawing.Point(116, 117)
+        Me.txtTotal.Location = New System.Drawing.Point(152, 117)
         Me.txtTotal.Name = "txtTotal"
         Me.txtTotal.ReadOnly = True
         Me.txtTotal.Size = New System.Drawing.Size(100, 20)
@@ -126,7 +127,7 @@ Partial Class frmInvoiceTotal
         '
         'txtCustomerType
         '
-        Me.txtCustomerType.Location = New System.Drawing.Point(116, 10)
+        Me.txtCustomerType.Location = New System.Drawing.Point(152, 13)
         Me.txtCustomerType.Name = "txtCustomerType"
         Me.txtCustomerType.Size = New System.Drawing.Size(100, 20)
         Me.txtCustomerType.TabIndex = 1
@@ -141,13 +142,23 @@ Partial Class frmInvoiceTotal
         Me.Label5.Text = "Customer &type:"
         Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
+        'btnClearAllBoxes
+        '
+        Me.btnClearAllBoxes.Location = New System.Drawing.Point(96, 153)
+        Me.btnClearAllBoxes.Name = "btnClearAllBoxes"
+        Me.btnClearAllBoxes.Size = New System.Drawing.Size(75, 23)
+        Me.btnClearAllBoxes.TabIndex = 12
+        Me.btnClearAllBoxes.Text = "Cl&ear"
+        Me.btnClearAllBoxes.UseVisualStyleBackColor = True
+        '
         'frmInvoiceTotal
         '
         Me.AcceptButton = Me.btnCalculate
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.CancelButton = Me.btnExit
-        Me.ClientSize = New System.Drawing.Size(236, 191)
+        Me.ClientSize = New System.Drawing.Size(281, 203)
+        Me.Controls.Add(Me.btnClearAllBoxes)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.txtCustomerType)
         Me.Controls.Add(Me.txtTotal)
@@ -179,4 +190,5 @@ Partial Class frmInvoiceTotal
     Friend WithEvents txtTotal As System.Windows.Forms.TextBox
     Friend WithEvents txtCustomerType As System.Windows.Forms.TextBox
     Friend WithEvents Label5 As System.Windows.Forms.Label
+    Friend WithEvents btnClearAllBoxes As Button
 End Class

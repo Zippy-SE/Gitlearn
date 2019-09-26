@@ -23,7 +23,7 @@ Public Class frmInvoiceTotal
             discountPercent = 0.4D
         End If
 
-        Dim discountAmount As Decimal = subtotal * discountPercent
+        Dim discountAmount As Decimal = DiscountPct(subtotal, discountPercent)
         Dim invoiceTotal As Decimal = subtotal - discountAmount
 
         txtDiscountPercent.Text = FormatPercent(discountPercent, 1)
@@ -33,9 +33,26 @@ Public Class frmInvoiceTotal
         txtCustomerType.Select()
     End Sub
 
+    Private Shared Function DiscountPct(subtotal As Decimal, discountPercent As Decimal) As Decimal
+        Return subtotal * discountPercent
+    End Function
+
+
+
     Private Sub btnExit_Click(sender As Object,
             e As EventArgs) Handles btnExit.Click
         Me.Close()
     End Sub
 
+
+
+    Private Sub ClearAllBoxes(sender As Object, e As EventArgs) Handles btnClearAllBoxes.Click, btnClearAllBoxes.TextChanged
+        txtCustomerType.Clear()
+        txtSubtotal.Clear()
+        txtDiscountPercent.Clear()
+        txtDiscountAmount.Clear()
+        txtTotal.Clear()
+    End Sub
+
 End Class
+
